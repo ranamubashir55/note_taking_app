@@ -13,7 +13,8 @@ Before you start, make sure your system meets the following requirements:
 
 ### How to Run the App
 
-1. Add your OpenAI Secret key in the file `.env` located at path `note_taking_app/.env`
+1. Move into the directory `note_taking_app/`
+2. Add your OpenAI Secret key in the file `.env` located at path `note_taking_app/.env`
 
 2. Run the FastAPI server with the following command:
     ```bash
