@@ -9,7 +9,7 @@ Welcome to the Note Taking Application! This application allows you to create, r
 Before you start, make sure your system meets the following requirements:
 
 - Docker installed with docker-compose
-- OpenAI secret key
+- OpenAI secret key (at least Tier 1, as the free tier may result in rate limit exceeded errors)
 
 ### How to Run the App
 
