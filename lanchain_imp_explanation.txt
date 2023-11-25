@@ -1,0 +1,6 @@
+I successfully integrated ChatGPT with LangChain by utilizing the LangChain library.
+First, I initialized the OpenAI language model, configuring parameters such as temperature and providing the necessary API key.
+Then, I employed the PromptTemplate functionality from LangChain, dynamically taking user input and inserting it into the template.
+
+The crucial step involved passing the formatted prompt, with the user's input, to the OpenAI language model instance.
+This resulted in the generation of a text summary. However, during the development process, I encountered a rate limit issue, which I resolved by upgrading to the Tier 1 API.
